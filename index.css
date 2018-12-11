@@ -1,0 +1,23 @@
+html {
+	background-color: #e6e6fa;
+}
+div {
+	text-align: left;
+}
+textarea {
+	width: 250px;
+	height: 500px;
+	min-width: 250px;
+	max-width: 1000px;
+	min-height: 250px;
+	max-height: 1000px;
+}
+span {
+	display: inline-block;
+	margin: 0 4px;
+	padding: 0 1em;
+	background-color: #fff;
+}
+p:hover span {
+	background-color: #ffa;
+}
